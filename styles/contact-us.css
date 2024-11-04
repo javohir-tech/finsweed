@@ -1,0 +1,14 @@
+.map-img{
+    width: 38.75rem;
+    height:23.125rem ;
+    overflow: hidden;
+    border-radius: 0.625rem;
+}
+
+.input-box{
+    height:23.125rem;
+}
+
+.map-img img{
+    transform: scale(1.4);
+}

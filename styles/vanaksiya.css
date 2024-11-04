@@ -1,0 +1,43 @@
+.vakansiya-info__section{
+    border-radius: 1.25rem;
+}
+
+.info-list__info{
+    display: block;
+}
+
+.info-item{
+    font-weight: 500;
+    font-size: 1.5em;
+    line-height: 1.875em;
+    color: rgba(13, 19, 23, 1);
+    text-decoration: none;
+    transition: all ,0.3s ease-in-out ;
+}
+
+.massege{
+    border-radius: 1rem;
+}
+
+.info-item:hover{
+    color: rgba(245, 138, 7, 1);
+}
+
+.input-style{
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.24rem;
+    color: rgba(156, 156, 156, 1);
+    background-color: rgba(210, 218, 237, 0.17);
+    border: 0;
+    padding: 0.625rem 1rem;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width:776px){
+    .info-item{
+        font-size: 500;
+        font-size: 1rem;
+        line-height: 1rem;
+    }
+}

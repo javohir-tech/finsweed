@@ -1,0 +1,19 @@
+/* blog-post-section */
+
+.blog-post__box{
+    height: 30rem;
+    overflow: hidden;
+    margin-top: 10em;
+    margin-bottom: 10em;
+    border-radius: 1.25rem;
+}
+
+.blog-post__box img{
+    border-radius: 1.25rem;
+}
+
+.video-section-img1{
+    width: 2rem;
+    height: 2rem;
+}
+
